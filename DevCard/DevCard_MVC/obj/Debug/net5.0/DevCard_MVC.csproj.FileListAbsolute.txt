@@ -113,3 +113,4 @@ C:\Users\User\Source\Repos\DevCard\DevCard\DevCard_MVC\bin\Debug\net5.0\zh-Hant\
 C:\Users\User\Source\Repos\DevCard\DevCard\DevCard_MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\User\Source\Repos\DevCard\DevCard\DevCard_MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\User\Source\Repos\DevCard\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Source\Repos\DevCard\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Projects.cshtml.g.cs
